@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Batuhan Karaduman</h1>
-<h3 align="center">A Senior Software Backend Developer from Turkey</h3>
+<h3 align="center">A Senior Software Full Stack Developer from Turkey</h3>
 
 - 🔭 I’m currently working on [Headerlift(Software Engineering) at Azerion](https://headerlift.com/)
 
